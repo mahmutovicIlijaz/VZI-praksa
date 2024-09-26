@@ -1,0 +1,6 @@
+cd mapaVZI
+git init
+git add .
+git commit -m "Nek naziv commita, npr. Prvi commit projekta"
+git remote add origin POVEZAVA_DO_GIT_REPOSITORYA
+git push -u -f origin BRANCH_NA_KATEREGA_POTISKATE
